@@ -8,7 +8,7 @@ var lines = new List<string>();
 lines.Add($"Module;Level;Count;Requirement;");
 foreach (var requirement in requirements)
 {
-    lines.Add($"{requirement.Module};{requirement.Level};{requirement.Count:#,0.##};{requirement.Name};");
+    lines.Add($"{requirement.Module};{requirement.Level};{requirement.Count:#,0.##};{requirement.Name};".Replace("\"", "'"));
 }
 File.WriteAllLines("../../../../latest-output.csv", lines);
 Console.WriteLine("done");
