@@ -1,294 +1,294 @@
-Module;Level;Count;Requirement
-Air Filtering Unit;1;5;Gas mask air filter
-Air Filtering Unit;1;25,000;Dollars
-Air Filtering Unit;1;5;Military power filter
-Air Filtering Unit;1;3;Military corrugated tube
-Bitcoin Farm;1;5;T-Shaped plug
-Bitcoin Farm;1;1;VPX Flash Storage Module
-Bitcoin Farm;1;10;Power cord
-Bitcoin Farm;1;10;Power supply unit
-Bitcoin Farm;1;15;CPU fan
-Bitcoin Farm;2;15;CPU fan
-Bitcoin Farm;2;10;Power supply unit
-Bitcoin Farm;2;15;Printed circuit board
-Bitcoin Farm;2;5;Phase control relay
-Bitcoin Farm;2;2;Military power filter
-Bitcoin Farm;3;25;CPU fan
-Bitcoin Farm;3;15;Silicone tube
-Bitcoin Farm;3;10;Electric motor
-Bitcoin Farm;3;10;Pressure gauge
-Bitcoin Farm;3;1;6-STEN-140-M military battery
-Booze Generator;1;2;Metal spare parts
-Booze Generator;1;2;Pressure gauge
-Booze Generator;1;3;Radiator helix
-Booze Generator;1;4;Silicone tube
-Booze Generator;1;1;Pipe grip wrench
-Booze Generator;1;2;Analog thermometer
-Booze Generator;1;5;Corrugated hose
-Defective Wall;2;1;Fleece fabric
-Defective Wall;3;1;Fleece fabric
-Defective Wall;4;1;Fierce Blow sledgehammer
-Defective Wall;4;1;Fleece fabric
-Defective Wall;5;1;Metal cutting scissors
-Defective Wall;5;1;Toolset
-Defective Wall;5;1;Fleece fabric
-Defective Wall;6;2;Corrugated hose
-Defective Wall;6;1;Duct tape
-Defective Wall;6;1;Toolset
-Defective Wall;6;1;Pliers Elite
-Defective Wall;6;5;Metal spare parts
-Defective Wall;6;1;Xenomorph sealing foam
-Defective Wall;6;2;Bundle of wires
-Defective Wall;6;2;Light bulb
-Generator;1;1;Spark plug
-Generator;1;100,000;Roubles
-Generator;2;1;Bulbex cable cutter
-Generator;2;5;Phase control relay
-Generator;2;1;Electric motor
-Generator;2;15;Bundle of wires
-Generator;3;5;Power supply unit
-Generator;3;6;Phase control relay
-Generator;3;3;Electric motor
-Generator;3;10;Spark plug
-Generator;3;7;Metal spare parts
-Heating;1;25,000;Roubles
-Heating;1;2;Classic matches
-Heating;2;3;Dry fuel
-Heating;2;50,000;Roubles
-Heating;2;2;Hunting matches
-Heating;2;3;Crickent lighter
-Heating;3;8;Radiator helix
-Heating;3;8;Bundle of wires
-Heating;3;4;Phase control relay
-Heating;3;2;Military corrugated tube
-Gym;1;1;Toolset
-Gym;1;1;Electric drill
-Gym;1;1;Metal cutting scissors
-Gym;1;3;Screw nuts
-Gym;1;3;Bolts
-Gym;1;1;WD-40 (100ml)
-Gym;1;1;Insulating tape
-Hall of Fame;1;2;Insulating tape
-Hall of Fame;1;5;Pack of nails
-Hall of Fame;1;5;Light bulb
-Hall of Fame;1;1;Cat figurine
-Hall of Fame;1;5;Fleece fabric
-Hall of Fame;1;1;Round pliers
-Hall of Fame;2;1;Tech manual
-Hall of Fame;2;1;Pliers Elite
-Hall of Fame;2;1;Toolset
-Hall of Fame;2;1;Golden rooster figurine
-Hall of Fame;2;10;Energy-saving lamp
-Hall of Fame;2;6;Pack of screws
-Hall of Fame;2;3;Duct tape
-Hall of Fame;2;2;Xenomorph sealing foam
-Hall of Fame;2;2;Ortodontox toothpaste
-Hall of Fame;3;1;Set of files 'Master'
-Hall of Fame;3;1;Electric drill
-Hall of Fame;3;1;Bronze lion figurine
-Hall of Fame;3;15;Energy-saving lamp
-Hall of Fame;3;3;KEKTAPE duct tape
-Hall of Fame;3;3;T-Shaped plug
-Hall of Fame;3;15;Metal spare parts
-Hall of Fame;3;5;Power cord
-Illumination;1;10,000;Roubles
-Illumination;1;1;Crickent lighter
-Illumination;2;14;Light bulb
-Illumination;2;10;Bundle of wires
-Illumination;3;50,000;Roubles
-Illumination;3;7;Capacitors
-Illumination;3;12;Energy-saving lamp
-Illumination;3;6;Bundle of wires
-Intelligence Center;1;1;Factory plan map
-Intelligence Center;1;1;Intelligence folder
-Intelligence Center;1;1;Topographic survey map
-Intelligence Center;2;3;Intelligence folder
-Intelligence Center;2;3;Secure Flash drive
-Intelligence Center;2;7;Power cord
-Intelligence Center;2;4;Damaged hard drive
-Intelligence Center;3;5;Military cable
-Intelligence Center;3;2;Military COFDM Wireless Signal Transmitter
-Intelligence Center;3;1;Far-forward GPS Signal Amplifier Unit
-Intelligence Center;3;2;VPX Flash Storage Module
-Intelligence Center;3;5;Military flash drive
-Intelligence Center;3;2;Secure magnetic tape cassette
-Lavatory;1;2,000;Roubles
-Lavatory;1;1;Toilet paper
-Lavatory;1;1;Toothpaste
-Lavatory;1;1;Soap
-Lavatory;1;1;Awl
-Lavatory;2;1;KEKTAPE duct tape
-Lavatory;2;3;Corrugated hose
-Lavatory;2;5;Pack of screws
-Lavatory;2;1;Electric drill
-Lavatory;2;2;Sewing kit
-Lavatory;3;3;Xenomorph sealing foam
-Lavatory;3;6;Corrugated hose
-Lavatory;3;2;Pressure gauge
-Lavatory;3;1;Toolset
-Library;1;1;BakeEzy cook book
-Library;1;2;Slim diary
-Library;1;2;Diary
-Library;1;5;Tech manual
-Library;1;2;Chainlet
-Library;1;1;Horse figurine
-Library;1;400,000;Roubles
-Medstation;1;50,000;Roubles
-Medstation;1;1;Disposable syringe
-Medstation;1;1;Pile of meds
-Medstation;1;2;Aseptic bandage
-Medstation;1;1;Bottle of OLOLO Multivitamins
-Medstation;2;3;Bottle of saline solution
-Medstation;2;2;Medical bloodset
-Medstation;2;5;Esmarch tourniquet
-Medstation;2;3;Medical tools
-Medstation;2;150,000;Roubles
-Medstation;3;1;Ophthalmoscope
-Medstation;3;500,000;Roubles
-Medstation;3;4;Bottle of saline solution
-Medstation;3;1;LEDX Skin Transilluminator
-Nutrition Unit;1;1;Can of white salt
-Nutrition Unit;1;1;Power cord
-Nutrition Unit;1;2;Phase control relay
-Nutrition Unit;1;25,000;Roubles
-Nutrition Unit;2;4;Wrench
-Nutrition Unit;2;2;Corrugated hose
-Nutrition Unit;2;2;Alkaline cleaner for heat exchangers
-Nutrition Unit;2;1;Phase control relay
-Nutrition Unit;3;125,000;Roubles
-Nutrition Unit;3;3;Can of Majaica coffee beans
-Nutrition Unit;3;3;Pack of sodium bicarbonate
-Nutrition Unit;3;2;Smoked Chimney drain cleaner
-Rest Space;1;10,000;Roubles
-Rest Space;1;1;Duct tape
-Rest Space;1;1;Classic matches
-Rest Space;2;3;Energy-saving lamp
-Rest Space;2;35,000;Roubles
-Rest Space;2;1;DVD drive
-Rest Space;2;1;Magnet
-Rest Space;3;5;GreenBat lithium battery
-Rest Space;3;4;Power cord
-Rest Space;3;5;Capacitors
-Rest Space;3;7;Bundle of wires
-Scav Case;1;1;Golden rooster figurine
-Scav Case;1;1;Lucky Scav Junk box
-Scav Case;1;3;Bottle of Fierce Hatchling moonshine
-Scav Case;1;4;Roler Submariner gold wrist watch
-Scav Case;1;8;Golden neck chain
-Scav Case;1;6;Gold skull ring
-Scav Case;1;3;Bronze lion figurine
-Scav Case;1;2,500;Roubles - 41min 40sec turnaround - 1-3 Items
-Scav Case;1;15,000;Roubles - 2h 8min 20sec turnaround - 2-4 Items
-Scav Case;1;95,000;Roubles - 2h 15min turnaround - 2-5 Items
-Scav Case;1;1;x Bottle of Fierce Hatchling moonshine - 4h 40min turnaround - 4-6 Items
-Scav Case;1;1;x Intelligence folder - 5h 20min turnaround - 4-7 Items
-Security;1;20,000;Roubles
-Security;1;1;Construction measuring tape
-Security;2;1;WD-40 (100ml)
-Security;2;45,000;Roubles
-Security;2;1;Pliers Elite
-Security;2;1;TP-200 TNT brick
-Security;3;8;NIXXOR lens
-Security;3;2;Working LCD
-Security;3;4;Bundle of wires
-Security;3;1;SSD drive
-Shooting Range;1;1;Metal spare parts
-Shooting Range;1;1;Bolts
-Shooting Range;1;1;Screw nuts
-Shooting Range;2;6;Electric motor
-Shooting Range;2;1;Construction measuring tape
-Shooting Range;2;1;Tube of Poxeram cold welding
-Shooting Range;2;1;Toolset
-Shooting Range;2;3;Pack of screws
-Shooting Range;2;1;Electric drill
-Shooting Range;2;5;Metal spare parts
-Shooting Range;2;3;WI-FI Camera
-Shooting Range;2;3;Bundle of wires
-Shooting Range;2;6;Energy-saving lamp
-Shooting Range;3;1;Set of files 'Master'
-Shooting Range;3;3;Printed circuit board
-Shooting Range;3;5;Bundle of wires
-Shooting Range;3;5;Metal spare parts
-Shooting Range;3;5;Capacitors
-Shooting Range;3;3;Phase control relay
-Shooting Range;3;5;Power cord
-Shooting Range;3;1;Leatherman Multitool
-Shooting Range;3;1;Tech manual
-Solar Power;1;4;Phased array element
-Solar Power;1;1;Advanced current converter
-Solar Power;1;25,000;Euros
-Solar Power;1;3;Working LCD
-Solar Power;1;10;Military cable
-Solar Power;1;10;Military power filter
-Stash;2;4;WD-40 (100ml)
-Stash;2;1;Hand drill
-Stash;2;5;Pack of nails
-Stash;2;10;Pack of screws
-Stash;2;2,500,000;Roubles
-Stash;3;2;Electric drill
-Stash;3;15;Pack of screws
-Stash;3;7;Pack of nails
-Stash;3;8,500,000;Roubles
-Stash;4;200,000;Euros
-Stash;4;10;Screw nuts
-Stash;4;10;Bolts
-Stash;4;5;Shustrilo sealing foam
-Stash;4;2;Ratchet wrench
-Vents;1;25,000;Roubles
-Vents;2;2;Metal spare parts
-Vents;2;3;CPU fan
-Vents;2;1;Car battery
-Vents;2;1;Electric motor
-Vents;3;5;Printed circuit board
-Vents;3;4;Electric motor
-Vents;3;5;Metal spare parts
-Vents;3;14;Bundle of wires
-Vents;3;4;Car battery
-Water Collector;1;3;Duct tape
-Water Collector;1;5;Screw nuts
-Water Collector;1;5;Bolts
-Water Collector;1;4;Corrugated hose
-Water Collector;2;2;Toolset
-Water Collector;2;6;Corrugated hose
-Water Collector;2;2;Electric motor
-Water Collector;2;2;KEKTAPE duct tape
-Water Collector;3;1;Ratchet wrench
-Water Collector;3;20,000;Roubles
-Water Collector;3;2;Pliers Elite
-Water Collector;3;5;Shustrilo sealing foam
-Weapon Rack;1;1;Hand drill
-Weapon Rack;1;1;Metal cutting scissors
-Weapon Rack;1;5;Energy-saving lamp
-Weapon Rack;1;3;Xenomorph sealing foam
-Weapon Rack;1;15;Bolts
-Weapon Rack;1;5;Insulating tape
-Weapon Rack;1;5;Pack of nails
-Weapon Rack;2;1;Electric drill
-Weapon Rack;2;1;Set of files 'Master'
-Weapon Rack;2;10;Energy-saving lamp
-Weapon Rack;2;10;Pack of screws
-Weapon Rack;2;5;Duct tape
-Weapon Rack;2;10;Bundle of wires
-Weapon Rack;2;5;Metal spare parts
-Weapon Rack;2;5;Weapon parts
-Weapon Rack;2;3;Tube of Poxeram cold welding
-Weapon Rack;3;1;Electric drill
-Weapon Rack;3;15;Energy-saving lamp
-Weapon Rack;3;10;Metal spare parts
-Weapon Rack;3;5;KEKTAPE duct tape
-Weapon Rack;3;15;Bundle of wires
-Weapon Rack;3;3;Shustrilo sealing foam
-Weapon Rack;3;1;Tech manual
-Weapon Rack;3;1;FireKlean gun lube
-Workbench;1;2;Screw nuts
-Workbench;1;2;Bolts
-Workbench;1;1;Leatherman Multitool
-Workbench;2;6;Bolts
-Workbench;2;3;Toolset
-Workbench;2;1;Set of files 'Master'
-Workbench;2;2;Electric drill
-Workbench;2;3;Weapon parts
-Workbench;3;395,000;Roubles
-Workbench;3;2;Pliers Elite
-Workbench;3;1;FireKlean gun lube
-Workbench;3;2;Can of thermite
+Level,Module,Count,Name
+1,Air Filtering Unit,5,Gas mask air filter
+1,Air Filtering Unit,25000,Dollars
+1,Air Filtering Unit,5,Military power filter
+1,Air Filtering Unit,3,Military corrugated tube
+1,Bitcoin Farm,5,T-Shaped plug
+1,Bitcoin Farm,1,VPX Flash Storage Module
+1,Bitcoin Farm,10,Power cord
+1,Bitcoin Farm,10,Power supply unit
+1,Bitcoin Farm,15,CPU fan
+2,Bitcoin Farm,15,CPU fan
+2,Bitcoin Farm,10,Power supply unit
+2,Bitcoin Farm,15,Printed circuit board
+2,Bitcoin Farm,5,Phase control relay
+2,Bitcoin Farm,2,Military power filter
+3,Bitcoin Farm,25,CPU fan
+3,Bitcoin Farm,15,Silicone tube
+3,Bitcoin Farm,10,Electric motor
+3,Bitcoin Farm,10,Pressure gauge
+3,Bitcoin Farm,1,6-STEN-140-M military battery
+1,Booze Generator,2,Metal spare parts
+1,Booze Generator,2,Pressure gauge
+1,Booze Generator,3,Radiator helix
+1,Booze Generator,4,Silicone tube
+1,Booze Generator,1,Pipe grip wrench
+1,Booze Generator,2,Analog thermometer
+1,Booze Generator,5,Corrugated hose
+2,Defective Wall,1,Fleece fabric
+3,Defective Wall,1,Fleece fabric
+4,Defective Wall,1,Fierce Blow sledgehammer
+4,Defective Wall,1,Fleece fabric
+5,Defective Wall,1,Metal cutting scissors
+5,Defective Wall,1,Toolset
+5,Defective Wall,1,Fleece fabric
+6,Defective Wall,2,Corrugated hose
+6,Defective Wall,1,Duct tape
+6,Defective Wall,1,Toolset
+6,Defective Wall,1,Pliers Elite
+6,Defective Wall,5,Metal spare parts
+6,Defective Wall,1,Xenomorph sealing foam
+6,Defective Wall,2,Bundle of wires
+6,Defective Wall,2,Light bulb
+1,Generator,1,Spark plug
+1,Generator,100000,Roubles
+2,Generator,1,Bulbex cable cutter
+2,Generator,5,Phase control relay
+2,Generator,1,Electric motor
+2,Generator,15,Bundle of wires
+3,Generator,5,Power supply unit
+3,Generator,6,Phase control relay
+3,Generator,3,Electric motor
+3,Generator,10,Spark plug
+3,Generator,7,Metal spare parts
+1,Heating,25000,Roubles
+1,Heating,2,Classic matches
+2,Heating,3,Dry fuel
+2,Heating,50000,Roubles
+2,Heating,2,Hunting matches
+2,Heating,3,Crickent lighter
+3,Heating,8,Radiator helix
+3,Heating,8,Bundle of wires
+3,Heating,4,Phase control relay
+3,Heating,2,Military corrugated tube
+1,Gym,1,Toolset
+1,Gym,1,Electric drill
+1,Gym,1,Metal cutting scissors
+1,Gym,3,Screw nuts
+1,Gym,3,Bolts
+1,Gym,1,WD-40 (100ml)
+1,Gym,1,Insulating tape
+1,Hall of Fame,2,Insulating tape
+1,Hall of Fame,5,Pack of nails
+1,Hall of Fame,5,Light bulb
+1,Hall of Fame,1,Cat figurine
+1,Hall of Fame,5,Fleece fabric
+1,Hall of Fame,1,Round pliers
+2,Hall of Fame,1,Tech manual
+2,Hall of Fame,1,Pliers Elite
+2,Hall of Fame,1,Toolset
+2,Hall of Fame,1,Golden rooster figurine
+2,Hall of Fame,10,Energy-saving lamp
+2,Hall of Fame,6,Pack of screws
+2,Hall of Fame,3,Duct tape
+2,Hall of Fame,2,Xenomorph sealing foam
+2,Hall of Fame,2,Ortodontox toothpaste
+3,Hall of Fame,1,"Set of files ""Master"""
+3,Hall of Fame,1,Electric drill
+3,Hall of Fame,1,Bronze lion figurine
+3,Hall of Fame,15,Energy-saving lamp
+3,Hall of Fame,3,KEKTAPE duct tape
+3,Hall of Fame,3,T-Shaped plug
+3,Hall of Fame,15,Metal spare parts
+3,Hall of Fame,5,Power cord
+1,Illumination,10000,Roubles
+1,Illumination,1,Crickent lighter
+2,Illumination,14,Light bulb
+2,Illumination,10,Bundle of wires
+3,Illumination,50000,Roubles
+3,Illumination,7,Capacitors
+3,Illumination,12,Energy-saving lamp
+3,Illumination,6,Bundle of wires
+1,Intelligence Center,1,Factory plan map
+1,Intelligence Center,1,Intelligence folder
+1,Intelligence Center,1,Topographic survey map
+2,Intelligence Center,3,Intelligence folder
+2,Intelligence Center,3,Secure Flash drive
+2,Intelligence Center,7,Power cord
+2,Intelligence Center,4,Damaged hard drive
+3,Intelligence Center,5,Military cable
+3,Intelligence Center,2,Military COFDM Wireless Signal Transmitter
+3,Intelligence Center,1,Far-forward GPS Signal Amplifier Unit
+3,Intelligence Center,2,VPX Flash Storage Module
+3,Intelligence Center,5,Military flash drive
+3,Intelligence Center,2,Secure magnetic tape cassette
+1,Lavatory,2000,Roubles
+1,Lavatory,1,Toilet paper
+1,Lavatory,1,Toothpaste
+1,Lavatory,1,Soap
+1,Lavatory,1,Awl
+2,Lavatory,1,KEKTAPE duct tape
+2,Lavatory,3,Corrugated hose
+2,Lavatory,5,Pack of screws
+2,Lavatory,1,Electric drill
+2,Lavatory,2,Sewing kit
+3,Lavatory,3,Xenomorph sealing foam
+3,Lavatory,6,Corrugated hose
+3,Lavatory,2,Pressure gauge
+3,Lavatory,1,Toolset
+1,Library,1,BakeEzy cook book
+1,Library,2,Slim diary
+1,Library,2,Diary
+1,Library,5,Tech manual
+1,Library,2,Chainlet
+1,Library,1,Horse figurine
+1,Library,400000,Roubles
+1,Medstation,50000,Roubles
+1,Medstation,1,Disposable syringe
+1,Medstation,1,Pile of meds
+1,Medstation,2,Aseptic bandage
+1,Medstation,1,Bottle of OLOLO Multivitamins
+2,Medstation,3,Bottle of saline solution
+2,Medstation,2,Medical bloodset
+2,Medstation,5,Esmarch tourniquet
+2,Medstation,3,Medical tools
+2,Medstation,150000,Roubles
+3,Medstation,1,Ophthalmoscope
+3,Medstation,500000,Roubles
+3,Medstation,4,Bottle of saline solution
+3,Medstation,1,LEDX Skin Transilluminator
+1,Nutrition Unit,1,Can of white salt
+1,Nutrition Unit,1,Power cord
+1,Nutrition Unit,2,Phase control relay
+1,Nutrition Unit,25000,Roubles
+2,Nutrition Unit,4,Wrench
+2,Nutrition Unit,2,Corrugated hose
+2,Nutrition Unit,2,Alkaline cleaner for heat exchangers
+2,Nutrition Unit,1,Phase control relay
+3,Nutrition Unit,125000,Roubles
+3,Nutrition Unit,3,Can of Majaica coffee beans
+3,Nutrition Unit,3,Pack of sodium bicarbonate
+3,Nutrition Unit,2,Smoked Chimney drain cleaner
+1,Rest Space,10000,Roubles
+1,Rest Space,1,Duct tape
+1,Rest Space,1,Classic matches
+2,Rest Space,3,Energy-saving lamp
+2,Rest Space,35000,Roubles
+2,Rest Space,1,DVD drive
+2,Rest Space,1,Magnet
+3,Rest Space,5,GreenBat lithium battery
+3,Rest Space,4,Power cord
+3,Rest Space,5,Capacitors
+3,Rest Space,7,Bundle of wires
+1,Scav Case,1,Golden rooster figurine
+1,Scav Case,1,Lucky Scav Junk box
+1,Scav Case,3,Bottle of Fierce Hatchling moonshine
+1,Scav Case,4,Roler Submariner gold wrist watch
+1,Scav Case,8,Golden neck chain
+1,Scav Case,6,Gold skull ring
+1,Scav Case,3,Bronze lion figurine
+1,Scav Case,2500,Roubles - 41min 40sec turnaround - 1-3 Items
+1,Scav Case,15000,Roubles - 2h 8min 20sec turnaround - 2-4 Items
+1,Scav Case,95000,Roubles - 2h 15min turnaround - 2-5 Items
+1,Scav Case,1,x Bottle of Fierce Hatchling moonshine - 4h 40min turnaround - 4-6 Items
+1,Scav Case,1,x Intelligence folder - 5h 20min turnaround - 4-7 Items
+1,Security,20000,Roubles
+1,Security,1,Construction measuring tape
+2,Security,1,WD-40 (100ml)
+2,Security,45000,Roubles
+2,Security,1,Pliers Elite
+2,Security,1,TP-200 TNT brick
+3,Security,8,NIXXOR lens
+3,Security,2,Working LCD
+3,Security,4,Bundle of wires
+3,Security,1,SSD drive
+1,Shooting Range,1,Metal spare parts
+1,Shooting Range,1,Bolts
+1,Shooting Range,1,Screw nuts
+2,Shooting Range,6,Electric motor
+2,Shooting Range,1,Construction measuring tape
+2,Shooting Range,1,Tube of Poxeram cold welding
+2,Shooting Range,1,Toolset
+2,Shooting Range,3,Pack of screws
+2,Shooting Range,1,Electric drill
+2,Shooting Range,5,Metal spare parts
+2,Shooting Range,3,WI-FI Camera
+2,Shooting Range,3,Bundle of wires
+2,Shooting Range,6,Energy-saving lamp
+3,Shooting Range,1,"Set of files ""Master"""
+3,Shooting Range,3,Printed circuit board
+3,Shooting Range,5,Bundle of wires
+3,Shooting Range,5,Metal spare parts
+3,Shooting Range,5,Capacitors
+3,Shooting Range,3,Phase control relay
+3,Shooting Range,5,Power cord
+3,Shooting Range,1,Leatherman Multitool
+3,Shooting Range,1,Tech manual
+1,Solar Power,4,Phased array element
+1,Solar Power,1,Advanced current converter
+1,Solar Power,25000,Euros
+1,Solar Power,3,Working LCD
+1,Solar Power,10,Military cable
+1,Solar Power,10,Military power filter
+2,Stash,4,WD-40 (100ml)
+2,Stash,1,Hand drill
+2,Stash,5,Pack of nails
+2,Stash,10,Pack of screws
+2,Stash,2500000,Roubles
+3,Stash,2,Electric drill
+3,Stash,15,Pack of screws
+3,Stash,7,Pack of nails
+3,Stash,8500000,Roubles
+4,Stash,200000,Euros
+4,Stash,10,Screw nuts
+4,Stash,10,Bolts
+4,Stash,5,Shustrilo sealing foam
+4,Stash,2,Ratchet wrench
+1,Vents,25000,Roubles
+2,Vents,2,Metal spare parts
+2,Vents,3,CPU fan
+2,Vents,1,Car battery
+2,Vents,1,Electric motor
+3,Vents,5,Printed circuit board
+3,Vents,4,Electric motor
+3,Vents,5,Metal spare parts
+3,Vents,14,Bundle of wires
+3,Vents,4,Car battery
+1,Water Collector,3,Duct tape
+1,Water Collector,5,Screw nuts
+1,Water Collector,5,Bolts
+1,Water Collector,4,Corrugated hose
+2,Water Collector,2,Toolset
+2,Water Collector,6,Corrugated hose
+2,Water Collector,2,Electric motor
+2,Water Collector,2,KEKTAPE duct tape
+3,Water Collector,1,Ratchet wrench
+3,Water Collector,20000,Roubles
+3,Water Collector,2,Pliers Elite
+3,Water Collector,5,Shustrilo sealing foam
+1,Weapon Rack,1,Hand drill
+1,Weapon Rack,1,Metal cutting scissors
+1,Weapon Rack,5,Energy-saving lamp
+1,Weapon Rack,3,Xenomorph sealing foam
+1,Weapon Rack,15,Bolts
+1,Weapon Rack,5,Insulating tape
+1,Weapon Rack,5,Pack of nails
+2,Weapon Rack,1,Electric drill
+2,Weapon Rack,1,"Set of files ""Master"""
+2,Weapon Rack,10,Energy-saving lamp
+2,Weapon Rack,10,Pack of screws
+2,Weapon Rack,5,Duct tape
+2,Weapon Rack,10,Bundle of wires
+2,Weapon Rack,5,Metal spare parts
+2,Weapon Rack,5,Weapon parts
+2,Weapon Rack,3,Tube of Poxeram cold welding
+3,Weapon Rack,1,Electric drill
+3,Weapon Rack,15,Energy-saving lamp
+3,Weapon Rack,10,Metal spare parts
+3,Weapon Rack,5,KEKTAPE duct tape
+3,Weapon Rack,15,Bundle of wires
+3,Weapon Rack,3,Shustrilo sealing foam
+3,Weapon Rack,1,Tech manual
+3,Weapon Rack,1,FireKlean gun lube
+1,Workbench,2,Screw nuts
+1,Workbench,2,Bolts
+1,Workbench,1,Leatherman Multitool
+2,Workbench,6,Bolts
+2,Workbench,3,Toolset
+2,Workbench,1,"Set of files ""Master"""
+2,Workbench,2,Electric drill
+2,Workbench,3,Weapon parts
+3,Workbench,395000,Roubles
+3,Workbench,2,Pliers Elite
+3,Workbench,1,FireKlean gun lube
+3,Workbench,2,Can of thermite

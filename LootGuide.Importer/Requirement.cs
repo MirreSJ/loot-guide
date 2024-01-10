@@ -10,7 +10,7 @@ namespace LootGuide.Importer
     {
         public required int Level { get; set; }
         public required string Module { get; set; }
-        public required string Name { get; set; }
         public required decimal Count { get; set; }
+        public required string Name { get; set; }
     }
 }

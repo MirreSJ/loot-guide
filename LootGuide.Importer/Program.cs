@@ -1,14 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using CsvHelper;
 using LootGuide.Importer;
+using System.Globalization;
 
 Console.WriteLine("Hello, World!");
 var loader = new FandomLoader();
 var requirements = await loader.LoadModulesAsync();
 var lines = new List<string>();
-lines.Add($"Module;Level;Count;Requirement");
-foreach (var requirement in requirements)
+
+using (var writer = new StreamWriter("../../../../latest-output.csv"))
+using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
 {
-    lines.Add($"{requirement.Module};{requirement.Level};{requirement.Count:#,0.##};{requirement.Name}".Replace("\"", "'"));
+    csv.WriteRecords(requirements);
 }
-File.WriteAllLines("../../../../latest-output.csv", lines);
 Console.WriteLine("done");
