@@ -2,8 +2,10 @@
 using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace LootGuide.Importer
@@ -42,8 +44,7 @@ namespace LootGuide.Importer
                 int stage;
                 if (int.TryParse(stageTxt.InnerText, out stage))
                 {
-                    var requirementList = row.SelectNodes("td/ul/li");
-                    var requirements = CreateRequirements(requirementList, stage, module);
+                    var requirements = CreateRequirements(row, stage, module);
                     result.AddRange(requirements);
                 }
             }
@@ -51,21 +52,76 @@ namespace LootGuide.Importer
             return result;
         }
 
-        private IEnumerable<Requirement> CreateRequirements(HtmlNodeCollection requirementList, int level, string module)
+        private IEnumerable<Requirement> CreateRequirements(HtmlNode row, int level, string module)
         {
             var result = new List<Requirement>();
+            var requirementList = row.SelectNodes("td/ul/li");
             foreach (var requirementNode in requirementList)
             {
-                var requirement = new Requirement
-                {
-                    Module = module.Trim(),
-                    Level = level,
-                    Count = 1,
-                    Name = requirementNode.InnerText.Trim()
-                };
-                result.Add(requirement);
+                Requirement? requirement = CreateRequirement(level, module, requirementNode);
+                if(requirement != null) 
+                { 
+                    result.Add(requirement);
+                }
             }
             return result;
+        }
+
+        private Requirement? CreateRequirement(int level, string module, HtmlNode? requirementNode)
+        {
+            if (requirementNode == null)
+            {
+                return null;
+            }
+            var (count, name) = GetRequirementNameAndCount(requirementNode); 
+            if (string.IsNullOrEmpty(name))
+            {
+                return null;
+            }
+            return new Requirement
+            {
+                Module = module.Trim(),
+                Level = level,
+                Count = count,
+                Name = name
+            };
+        }
+
+        private (decimal, string?) GetRequirementNameAndCount(HtmlNode requirementNode)
+        {
+            var text = requirementNode.InnerText.Trim();
+            if (!StratrsWithNumber(text))
+            {
+                return (-1, null);
+            }
+            if (StratrsWithNumber(text))
+            {
+                var match = Regex.Match(text, @"^(\d+,?)+(\.\d+)*");
+                if(match.Success)
+                {
+                    if (decimal.TryParse(match.Value, new CultureInfo("us"), out decimal count))
+                    {
+                        return (count, text.Substring(match.Value.Length, text.Length-match.Value.Length).Trim());
+                    }
+                    return (1, text);
+                }
+            }
+            return (1, text);
+        }
+
+        private string? GetRequirementName(HtmlNode requirementNode)
+        {
+            var result = requirementNode.InnerText.Trim();
+            if (!StratrsWithNumber(result))
+            {
+                return null;
+            }
+            return result;
+        }
+
+        private bool StratrsWithNumber(string result)
+        {
+            return Regex.IsMatch(result, @"^\d") ;
         }
 
         private string? GetModuleName(HtmlNode table)
@@ -75,7 +131,13 @@ namespace LootGuide.Importer
             {
                 return null;
             }
-            return header.InnerText;
+            var noteIndex = header.InnerText.IndexOf("Note:");
+            if(noteIndex > -1) 
+            { 
+                return header.InnerText.Substring(0, noteIndex).Trim();
+            }
+
+            return header.InnerText.Trim();
         }
     }
 }
